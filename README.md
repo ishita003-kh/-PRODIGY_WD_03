@@ -1,1 +1,1 @@
-# -PRODIGY_WD_03
+A game of tic-tac-toe is developed using HTML, CSS and Javacsript. Functions have been implemented to handle user clicks, track game states and check for winning condiions. With these technologies and functionalities, users can play against each other or against an AI opponent, aiming to get three markers in a row to win the game.
